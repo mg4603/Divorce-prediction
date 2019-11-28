@@ -5,7 +5,7 @@ Pre-processing and evaluation of multiple classification models on the divorce p
 # Dataset
 Divorce Predictors dataset
 
-## Source
+## Authors
 Dr. Mustafa Kemal Yöntem, Nevşehir Hacı Bektaş Veli University, Faculty of Education, Department of Educational Sciences, muskemtem '@' hotmail.com
 Dr. Kemal ADEM, Aksaray University, Faculty of Economics and Administrative Sciences, Department of Management Information Systems, kemaladem '@' gmail.com
 Prof. Dr. Tahsin İlhan, Tokat GAZİOSMANPAŞA University, Faculty of Education, Department of Educational Sciences, tahsinilhan73 '@' gmail.com
