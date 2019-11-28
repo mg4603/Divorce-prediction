@@ -69,4 +69,7 @@ Lecturer Serhat Kılıçarslan, Tokat GAZİOSMANPAŞA University, Rectorate, Dep
 54. I'm not afraid to tell my spouse about her/his incompetence.
 
 
+[Dataset Download Link](http://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#)
+
+
 
